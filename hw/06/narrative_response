@@ -1,0 +1,12 @@
+Write a description about what it does and why it helped.
+
+Label smoothing stops a model from becoming overconfident by softening the ground truth.
+It does this by "preventing the lartgest logit form becoming much larger than all others" 
+(Source: Rethinking the Inception Architecture for Computer Vision)
+
+What accuracy improvement did the paper’s authors find from their technique? 
+	They found "found a consistent improvement of about 0.2% absolute both for 
+	top-1 error and the top-5 error"
+
+How did that improvement compare with what the authors of the blog post found?
+	The blog post found an additional increase in accuracy by 0.318 points (not sure if that's a percent). 

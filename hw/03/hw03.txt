@@ -1,0 +1,26 @@
+1. Metadata about your original (Homework 2) dataset (see below for details).
+	What the two buildings were:
+		Gamma
+		Theta
+	How big the dataset is (number of images per building and total)
+		Gamma: 32
+		Theta: 42
+		Total: 74
+	Any other characteristics that are relevant
+		Captured in burst mode
+		Captured in the day
+2. Metadata about the dataset you are testing on.
+	What the two buildings were:
+		Hekman
+		Commons
+	How big the dataset is (number of images per building and total)
+		Hekman: 6
+		Common: 7
+		Total: 13
+	Any other characteristics that are relevant
+		Not captured in burst mode
+		Also captured in the day
+3. What accuracy range you estimated on Homework 2,
+4. What accuracy you obtain on your test set,
+5. Whether the answer to Q4 is within the range of Q3, and
+6. What factors may have influenced the answer to Question 5.
